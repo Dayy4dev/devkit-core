@@ -1,0 +1,21 @@
+{
+  "name": "@dayy4dev/devkit-core",
+  "version": "1.0.0",
+  "description": "Lightweight TypeScript utility library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint src/**/*.ts"
+  },
+  "keywords": [
+    "typescript",
+    "utilities",
+    "toolkit",
+    "functional",
+    "helpers"
+  ],
+  "author": "Rexd el vandimion",
+  "license": "MIT"
+}
